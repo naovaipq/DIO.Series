@@ -1,0 +1,32 @@
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\Pichau\OneDrive - Fatec Centro Paula Souza\DIO-BootcampAvanade\Cadastro de Series\DIO.Serires\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
